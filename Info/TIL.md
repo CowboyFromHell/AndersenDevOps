@@ -8,3 +8,8 @@
 * Markdown basic syntax
 * Creating the remote repo
 * Push operation to the remote repo
+
+### 03.06.2021
+* VirtualBox 6.1.16 installed on Ubuntu 20.04
+* Debian 10.9.0 without GUI installed on VirtualBox
+* Flask installed
