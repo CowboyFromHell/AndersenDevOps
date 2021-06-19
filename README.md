@@ -3,3 +3,5 @@
 Telegram for links: "DevOps Course May-July"
 
 All information is confidential.
+
+666
